@@ -1,0 +1,27 @@
+body {
+background-color: black;
+color: white;
+}
+
+p {
+font-size: 24px;
+color: white;
+text-align: center;
+}
+
+a {
+color: white;
+font-size: 35px;
+}
+
+h1 {
+color: white;
+text-align: center;
+}
+
+li {
+  color: white;
+  background-color: red;
+  display: inline-block;
+  text-align: center;
+}
